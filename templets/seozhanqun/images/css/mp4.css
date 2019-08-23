@@ -1,0 +1,296 @@
+.container2 {
+	width:960px;
+	margin:5px auto 0 auto;
+	padding:0;
+}
+.container2 h3 {
+	color: inherit; line-height: 1.1; font-family: inherit; font-weight: 500;
+	margin-top: 20px; margin-bottom: 10px;
+	font-size: 24px;
+}
+.container2 .movie {
+	width:960px;
+	border:1px solid #DEDEDE;
+	margin: 0px; padding: 15px 0px; overflow: hidden;
+}
+.container2 .col-md-9 {
+	margin-left:15px;
+	padding:0;
+	float: left;
+	width: 700px;
+	text-align: center;
+}
+.container2 .col-md-9 img {
+	width:700px;
+}
+.container2 .info {
+	margin:0 15px 0 20px;
+	padding:0;
+	float: left;
+	width: 208px;
+}
+.container2 .info a {
+	color:#505050;
+}
+.container2 .info a:hover {
+	color:#000080;
+	text-decoration:underline;
+}
+.container2 .info p {
+	line-height: 25px; font-size: 14px; -ms-word-break: break-all;
+}
+.container2 .info .genre {
+	margin-right: 10px; white-space: nowrap;
+}
+.container2 .info .header {
+	font-size: 14px; font-weight: bold;
+}
+/* �� �ֻ����� ��ҳ start*/
+.endpage {
+	margin:8px 0 0 0;
+	width:960px;
+	FONT-SIZE: 12px;
+	FONT-FAMILY: inherit; FONT-WEIGHT: normal;
+	FONT-STYLE: normal;
+	BORDER-TOP: #ececec 1px solid; BORDER-RIGHT: #ececec 1px solid; BACKGROUND: #fff; BORDER-BOTTOM: #ececec 1px solid; PADDING-BOTTOM: 10px; PADDING-TOP: 0px; PADDING-LEFT: 16px; BORDER-LEFT: #ececec 1px solid; PADDING-RIGHT: 16px
+}
+.clearfixpage {
+	DISPLAY: inline-block
+}
+.endpage DIV {
+	FONT-SIZE: 100%; FONT-FAMILY: inherit; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.endpage UL {
+	FONT-SIZE: 100%; FONT-FAMILY: inherit; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.endpage .hot {
+	WIDTH: 210px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px
+}
+.endpage .hot LI {
+	
+}
+.endpage .hot .cate DD P {
+	WIDTH: 52px
+}
+.endpage .ulike {
+	PADDING-LEFT: 6px
+}
+.endpage A:link {
+	TEXT-DECORATION: none; COLOR: #4d4d4d
+}
+.endpage A:visited {
+	TEXT-DECORATION: none; COLOR: #4d4d4d
+}
+.endpage A:hover {
+	TEXT-DECORATION: underline; COLOR: #fe9633
+}
+
+.endpage .mox {
+	BORDER-TOP: #f2f2f2 1px solid; BORDER-RIGHT: #f2f2f2 1px solid; BORDER-BOTTOM: #f2f2f2 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; CLEAR: both; BORDER-LEFT: #f2f2f2 1px solid; MARGIN-TOP: 10px; PADDING-RIGHT: 3px
+}
+.endpage .mox .title {
+	HEIGHT: 34px; BORDER-BOTTOM: #f2f2f2 1px solid; COLOR: #3e4454; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; LINE-HEIGHT: 34px; PADDING-RIGHT: 10px
+}
+.endpage .mox .title SPAN {
+	FONT-SIZE: 16px; FLOAT: left
+}
+.endpage .mox .title SPAN IMG {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 10px
+}
+.endpage .mox .title P {
+	FLOAT: right; PADDING-LEFT: 12px
+}
+.endpage .play-list {
+	OVERFLOW: hidden; HEIGHT: 100%; PADDING-BOTTOM: 6px; PADDING-TOP: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 0px
+}
+.endpage .play-list A {
+	OVERFLOW: hidden; FONT-SIZE: 16px; HEIGHT: 40px; WIDTH: 140px; BACKGROUND: #429d02; FLOAT: left; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN: 8px 8px 0px 0px; DISPLAY: block; LINE-HEIGHT: 40px
+}
+.endpage .play-list A:visited {
+	BACKGROUND: #429d02; COLOR: #fff
+}
+.endpage .play-list A:hover {
+	TEXT-DECORATION: none; BORDER-TOP-COLOR: #07a7e1; BACKGROUND: #07a7e1; BORDER-LEFT-COLOR: #07a7e1; COLOR: #fff; BORDER-BOTTOM-COLOR: #07a7e1; BORDER-RIGHT-COLOR: #07a7e1
+}
+.endpage .ndownlist {
+	margin-bottom:-4px;
+}
+.endpage .ndownlist UL {
+	OVERFLOW: hidden; HEIGHT: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.endpage .ndownlist LI {
+	HEIGHT: 28px; BORDER-BOTTOM: #ebe6ed 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 7px; PADDING-LEFT: 0px; LINE-HEIGHT: 28px; PADDING-RIGHT: 0px
+}
+.endpage .ndownlist LI I {
+	WIDTH: 30px; FLOAT: left; TEXT-ALIGN: center; DISPLAY: block
+}
+.endpage .ndownlist LI I INPUT {
+	VERTICAL-ALIGN: middle
+}
+.endpage .ndownlist P {
+	OVERFLOW: hidden; WORD-WRAP: break-word; HEIGHT: 28px; WIDTH: 600px; WHITE-SPACE: nowrap; FLOAT: left; PADDING-LEFT: 10px; DISPLAY: inline-block
+}
+.endpage .ndownlist P A {
+	COLOR: #6b6e75
+}
+.endpage .downlist P A:visited {
+	COLOR: #6b6e75
+}
+.endpage .ndownlist SPAN {
+	FLOAT: right
+}
+.endpage .ndownlist SPAN A {
+	HEIGHT: 28px; WIDTH: 38px; BACKGROUND: #ff984d; COLOR: #fff; TEXT-ALIGN: center; DISPLAY: inline-block; LINE-HEIGHT: 28px; MARGIN-RIGHT: 6px
+}
+.endpage .ndownlist .ckbox A {
+	HEIGHT: 28px; WIDTH: 133px; BACKGROUND: url(../../../..../../../../images/i.png) no-repeat 0px -148px; COLOR: #464646; TEXT-ALIGN: center; MARGIN: 0px 10px 0px 0px; DISPLAY: inline-block; LINE-HEIGHT: 28px
+}
+.endpage .downlist .ckbox A:visited {
+	HEIGHT: 28px; WIDTH: 133px; BACKGROUND: url(../../../..../../../../images/i.png) no-repeat 0px -148px; COLOR: #464646; TEXT-ALIGN: center; MARGIN: 0px 10px 0px 0px; DISPLAY: inline-block; LINE-HEIGHT: 28px
+}
+.endpage .ndownlist .ckbox A:hover {
+	COLOR: #f00
+}
+.endpage .downurl {
+	clear:both;
+	margin:10px auto 0 auto;
+	OVERFLOW: hidden; HEIGHT: 100%; PADDING-BOTTOM: 6px; PADDING-TOP: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 0px
+}
+/* �� �ֻ����� ��ҳ end*/
+
+/*-------------mobile---------------*/
+@media screen and (max-width: 640px){
+
+.container2 {
+	width:100%;
+}
+.container2 h3 {
+	margin:2% 0 2% 1%;
+	font-size:1em;
+}
+.container2 .movie {
+	width:100%;
+	border:0;
+}
+.container2 .col-md-9 {
+	margin-left:1%;
+	padding:0;
+	float: left;
+	width: 98%;
+	text-align: center;
+}
+.container2 .col-md-9 img {
+	width:100%;
+}
+.container2 .info {
+	margin:0;
+	padding:0;
+	float: left;
+	width: 100%;
+}
+.container2 .info a {
+	color:#505050;
+}
+.container2 .info a:hover {
+	color:#000080;
+	text-decoration:underline;
+}
+.container2 .info p {
+	float:left;
+	width:48%;
+	margin-left:1%;
+	display:block;
+	line-height: 25px; font-size: 14px;
+}
+.container2 .info p.intro{
+	clear:both;
+	float:left;
+	width:99%;
+	margin-left:1%;
+	display:block;
+	text-align:left;
+	line-height: 25px; font-size: 14px;
+}
+.container2 .info .genre {
+	margin-right: 10px; white-space: nowrap;
+}
+.container2 .info .header {
+	font-size: 14px; font-weight: bold;
+}
+/* �� �ֻ����� ��ҳ�ƶ��� start*/
+.endpage {
+	margin:0;
+	width:96%;
+	FONT-SIZE: 12px;
+	FONT-FAMILY: inherit; FONT-WEIGHT: normal;
+	FONT-STYLE: normal;
+	BORDER-TOP: #ececec 1px solid; BORDER-RIGHT: #ececec 1px solid; BACKGROUND: #fff; BORDER-BOTTOM: #ececec 1px solid;  BORDER-LEFT: #ececec 1px solid;
+	padding:0 2% 2% 2%;
+}
+.clearfixpage {
+	DISPLAY: inline-block
+}
+.endpage DIV {
+	FONT-SIZE: 100%; FONT-FAMILY: inherit; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.endpage UL {
+	FONT-SIZE: 100%; FONT-FAMILY: inherit; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.endpage A:link {
+	TEXT-DECORATION: none; COLOR: #4d4d4d
+}
+.endpage A:visited {
+	TEXT-DECORATION: none; COLOR: #4d4d4d
+}
+.endpage A:hover {
+	TEXT-DECORATION: underline; COLOR: #fe9633
+}
+.clearfix:after {
+	HEIGHT: 0px; CONTENT: "."; CLEAR: both; DISPLAY: block; VISIBILITY: hidden
+}
+.endpage .mox {
+	BORDER-TOP: #f2f2f2 1px solid; BORDER-RIGHT: #f2f2f2 1px solid; BORDER-BOTTOM: #f2f2f2 1px solid; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 3px; CLEAR: both; BORDER-LEFT: #f2f2f2 1px solid; MARGIN-TOP: 10px; PADDING-RIGHT: 3px
+}
+.endpage .mox .title {
+	HEIGHT: 34px; BORDER-BOTTOM: #f2f2f2 1px solid; COLOR: #3e4454; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 10px; LINE-HEIGHT: 34px; PADDING-RIGHT: 10px
+}
+.endpage .mox .title SPAN {
+	FONT-SIZE: 16px; FLOAT: left
+}
+.endpage .mox .title SPAN IMG {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 10px
+}
+.endpage .mox .title P {
+	display:none;
+	FLOAT: right; PADDING-LEFT: 12px
+}
+.endpage .play-list {
+	OVERFLOW: hidden; HEIGHT: 100%; PADDING-BOTTOM: 6px; PADDING-TOP: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 0px
+}
+.endpage .play-list A {
+	OVERFLOW: hidden; FONT-SIZE: 16px; HEIGHT: 40px; WIDTH: 130px; BACKGROUND: #429d02; FLOAT: left; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN: 2% 2% 0 0; DISPLAY: block; LINE-HEIGHT: 40px
+}
+.endpage .play-list A:visited {
+	BACKGROUND: #429d02; COLOR: #fff
+}
+.endpage .play-list A:hover {
+	TEXT-DECORATION: none; BORDER-TOP-COLOR: #07a7e1; BACKGROUND: #07a7e1; BORDER-LEFT-COLOR: #07a7e1; COLOR: #fff; BORDER-BOTTOM-COLOR: #07a7e1; BORDER-RIGHT-COLOR: #07a7e1
+}
+.bigpic {
+	width:100%;
+}
+.bigpic img {
+	width:96%;
+	margin:0 2%;
+}
+
+.endpage .downurl {
+	clear:both;
+	margin:10px auto 0 auto;
+}
+/* �� �ֻ����� ��ҳ�ƶ��� end*/
+
+}
+
+
+

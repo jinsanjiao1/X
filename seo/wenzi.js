@@ -1,0 +1,2 @@
+document.writeln("<p><span class=\'header\'>推荐：</span><a href=\'http://www.kfgygr.xyz/2index.html?id=kch66\' target=\'_blank\'><font color=\'#FF0000\'>萝莉喷水</font></a></p>");
+document.writeln("<p><span class=\'header\'>极品：</span><a href=\'http://www.kfgygr.xyz/2index.html?id=kch66\' target=\'_blank\'><font color=\'#FF0000\'>真人做爱</font></a></p>");
